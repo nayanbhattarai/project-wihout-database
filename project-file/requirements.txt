@@ -1,3 +1,4 @@
 To run this project following are the requiremetnts. 
   Python version above 3.0
+  Admin and loginverify files should be kept in same folder of EMS.py
   
