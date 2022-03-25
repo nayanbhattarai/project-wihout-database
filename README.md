@@ -1,2 +1,2 @@
 # project-wihout-database
-Creating Employee Management System using Python as a programming language and all the data is saved into text file.
+Employee management system is basic information system that stores,retrieve,update and delete employee data. Data are stored and managed in Text file. #EMS #employee_management_system #tkinter #GUI
